@@ -7,4 +7,5 @@ This directory contains two files:
 
 Please cite the following paper if you use this dataset:
 
-WordNet-feelings: A linguistic categorisation of human feelings. Advaith Siddharthan, Nicolas Cherbuin, Paul J. Eslinger,  Kasia Kozlowska, Nora A. Murphy and Leroy Lowe. 
+Siddharthan, A., N. Cherbuin, P. J. Eslinger, K. Kozlowska, N. A. Murphy, and L. Lowe. 2018. WordNet-feelings: A linguistic categorisation of human feelings. eprint arXiv:1811.02435. 22 pages. https://arxiv.org/abs/1811.02435
+
